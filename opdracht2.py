@@ -1,4 +1,4 @@
-#
+#Er is een fout in deze code, kunt u het vinden en de code repareren
 
 hoofdnummer = 50
 if numme == 50:

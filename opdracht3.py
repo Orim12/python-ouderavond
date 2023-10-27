@@ -1,4 +1,4 @@
-#
+#Er is een fout in deze code en ook moet het nummer gelijk zijn aan 'elif'
 
 nummer = 10
 if numme == 10:

@@ -1,4 +1,4 @@
-#
+#Er is een fout in deze code, kunt u het vinden en de code repareren
 
 nummer = 10
 if numme == 10:
